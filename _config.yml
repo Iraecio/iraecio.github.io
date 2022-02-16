@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 baseurl: ""
 domain_name: "https://iraecio.github.io/"
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-39355324-5"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
